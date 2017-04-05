@@ -1,0 +1,247 @@
+body#home {
+	background-image: url(../img/background01.png);
+	
+}
+
+.navbar-default {
+  background-color: #ffffff;
+  border-color: #000000;
+}
+.navbar-default .navbar-brand {
+  color: #000000;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+  color: #9eb3c7;
+}
+.navbar-default .navbar-text {
+  color: #000000;
+}
+.navbar-default .navbar-nav > li > a {
+  color: #000000;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  border-bottom: 1px solid #E9E9E9!important;
+  padding-bottom: 0;
+}
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #9eb3c7;
+  background-color: #ffffff;
+}
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+  color: #9eb3c7;
+  background-color: #ffffff;
+}
+.navbar-default .navbar-toggle {
+  border-color: #ffffff;
+}
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+  background-color: #ffffff;
+}
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #000000;
+}
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+  border-color: #000000;
+}
+.navbar-default .navbar-link {
+  color: #000000;
+}
+.navbar-default .navbar-link:hover {
+  color: #9eb3c7;
+}
+.navbar-brand {
+	background-image: url(../img/logo1.jpg);
+	background-repeat: no-repeat;
+	background-size: 40px auto;
+	padding-left: 50px;
+	background-position: 5px 5px;
+}
+.jumbotron.text-center {
+	background-image: url(img/Utagawa_Hiroshige_(1857)_Awa_Naruto_no_fuukei
+.jpg);
+	background-image: url(img/Utagawa_Hiroshige_(1857)_Awa_Naruto_no_fuukei
+.jpg);
+	background-image: url(img/1200px-Utagawa_Hiroshige_(1857)_Awa_Naruto_no_fuukei
+.jpg);
+	background-image: url(img/1200px-Utagawa_Hiroshige_(1857)_Awa_Naruto_no_fuukei
+.jpg);
+	background-image: url(img/640px-Utagawa_Hiroshige_(1857)_Awa_Naruto_no_fuukei
+.jpg);
+}
+.jumbotron.text-center {
+	padding-top: 0px;
+	margin-top: -20px;
+}
+.col-xs12 p .btn.btn-primary.btn-lg {
+}
+.btn.btn-primary.btn-lg {
+	background-color: #271818;
+	border-width: 3px;
+	border-color: #FFFFFF;
+}
+.navbar-brand {
+}
+
+@media (max-width:649px){
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+    color: #000000;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+    color: #9eb3c7;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+    color: #9eb3c7;
+    background-color: #ffffff;
+  }
+}
+
+.caption p{
+	font-family: 'Cantarell', sans-serif;
+	color: #959595;
+	}
+
+/* button hover effect */
+
+.btn:hover {
+	
+	color:black;
+	background-color:white !important;
+	border-color:black !important;
+	
+}
+.thumbnail {
+	border-radius: 0;
+	border-top: none;
+	border-right: none;
+	border-bottom: 1px solid #C5C2C2;
+	border-left: none;	
+}
+	
+.img-responsive {
+    margin: 0 auto;
+}
+.col-xs12 {
+	padding: 70px;	
+}
+.tittle01 {
+	margin-top: -50px;	
+}
+.text-left {
+	margin-top: 50px;	
+}
+.button02 {
+	border: 1px solid #000000 !important;
+	background: #FFFFFF !important;
+	color: #000000 !important;	
+	font-family: 'Cantarell', sans-serif;
+	margin-top: 50px;
+}
+.thumbnail01 {
+    position: relative;
+}
+
+.caption02 {
+	color: #FFFFFF;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+	background-color: #000000;
+	opacity: 0.8;
+}
+.test01 {
+	padding: 0 50px 0 50px;
+}
+.table02 {
+	padding: 0 100px 0 100px;	
+}
+/*style for social icons */
+.navbar-text > a {
+	color: #000000;
+	text-decoration: none;	
+}
+.font01 a {
+	font-family: 'Shadows Into Light Two', cursive;
+	font-size: 15px;
+}
+.font02 a {
+	font-size: 25px;	
+}
+.font03 p{
+	font-family: 'Shadows Into Light Two', cursive;	
+}
+.font04 {
+	font-family: 'Shadows Into Light Two', cursive;	
+}
+p {
+	font-family: 'Cantarell', sans-serif;	
+}
+table {
+	font-family: 'Cantarell', sans-serif;
+}
+.caption02 h1{
+	font-family: 'Shadows Into Light Two', cursive;
+}
+.col-xs12 h1{
+	font-family: 'Shadows Into Light Two', cursive;	
+}
+.modal-title{
+	font-family: 'Shadows Into Light Two', cursive;	
+}
+.quote01 {
+	padding-top: 45px;
+	text-align: left;
+	padding-left: 50px;	
+}
+.text-left > a {
+	text-decoration: none;
+	color: #000000;
+	font-style: italic;	
+}
+.thumbnail {
+	background-color: #FFFFFF;	
+}
+/*body background */
+.body01 {
+	background-color: #F7F7F7;	
+}
+/* Responsive Manually */
+@media only screen and (min-width: 150px) and (max-width: 600px) {
+	
+.row {
+	margin-right: 0px !important;	
+	margin-left: 0px !important;
+}
+.caption02 {
+	position: inherit;
+	top: -20px;
+	opacity: 0.9;
+}
+.table02 {
+	padding: 0;
+}
+.col-xs12 {
+	padding: 90px 2px 10px 2px;	
+}
+.navbar-text {
+	font-size: 70%;	
+}
+.about01 {
+	padding: 0 5px 0 5px;	
+}
+}
+/*http://www.mrmcguire.com/10-useful-google-font-combinations-for-your-next-site
+  http://subtlepatterns.com/page/8
+  http://fortawesome.github.io/Font-Awesome
+  */
